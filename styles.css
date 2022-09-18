@@ -22,21 +22,6 @@
 
 /*header*/
 
-.header-container {
-  position: sticky;
-  top: 0%;
-  z-index: 999;
-}
-
-.header {
-  margin: 0 auto;
-  max-width: 1300px;
-  height: 100px;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
 main {
   display: flex;
   flex-direction: column;
@@ -48,7 +33,7 @@ main {
 
 h2 {
   color: black;
-  font-size: 40px;
+  font-size: 36px;
   letter-spacing: 2px;
   text-transform: uppercase;
   font-family: 'Bungee Spice', cursive;
